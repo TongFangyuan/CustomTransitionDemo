@@ -29,4 +29,5 @@
 {
     return self.dismissInteractor.hasStarted ? self.dismissInteractor : nil;
 }
+
 @end
